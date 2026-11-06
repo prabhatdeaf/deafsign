@@ -1,0 +1,42 @@
+HTTrack3.48-21+htsswf+htsjava launched on Wed, 27 Feb 2019 20:23:01 at http://swlabs.co/edugate/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://swlabs.co/edugate/ -O1 "E:\G\MY WEBSITES\2019\swlabs.co\http___swlabs.co_edugate_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:24:47	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/libs/js-cookie/js.cookie.js (from swlabs.co/edugate/)
+20:26:03	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/courses.html (from swlabs.co/edugate/)
+20:26:56	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/news.html (from swlabs.co/edugate/)
+20:27:20	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/news/news-3.jpg (from swlabs.co/edugate/)
+20:27:20	Warning: 	File not parsed, looks like binary: swlabs.co/edugate/assets/font/font-icon/font-awesome-4.4.0/fonts/fontawesome-webfont.woff2?v=4.4.0
+20:27:20	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/font/font-icon/font-awesome-4.4.0/fonts/fontawesome-webfont.svg?v=4.4.0 (from swlabs.co/edugate/assets/font/font-icon/font-awesome-4.4.0/css/font-awesome.css)
+20:27:20	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/font/font-icon/font-svg/fonts/Glyphter.woff (from swlabs.co/edugate/assets/font/font-icon/font-svg/css/Glyphter.css)
+20:27:20	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot? (from swlabs.co/edugate/assets/libs/bootstrap-3.3.5/css/bootstrap.css)
+20:27:26	Warning: 	File not parsed, looks like binary: swlabs.co/edugate/assets/libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2
+20:27:26	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/libs/fancybox/css/fancybox_loading.gif (from swlabs.co/edugate/assets/libs/fancybox/css/jquery.fancybox.css)
+20:27:26	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/libs/fancybox/images/fancybox_loading@2x.gif (from swlabs.co/edugate/assets/libs/fancybox/css/jquery.fancybox.css)
+20:27:27	Error: 	"Not Found" (404) at link swlabs.co/edugate/.slider-talk-about-us-wrapper (from swlabs.co/edugate/homepage-03.html)
+20:27:28	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/js/pages/events.js (from swlabs.co/edugate/events.html)
+20:27:28	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/gallery/gallery-20.jpg (from swlabs.co/edugate/gallery-3column.html)
+20:27:28	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/gallery/gallery-11.jpg (from swlabs.co/edugate/gallery-3column.html)
+20:27:28	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/gallery/gallery-14.jpg (from swlabs.co/edugate/gallery-3column.html)
+20:27:28	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/gallery/gallery-15.jpg (from swlabs.co/edugate/gallery-3column.html)
+20:27:29	Warning: 	Retry after error 502 (Server Hangup) at link swlabs.co/edugate/assets/images/gallery/gallery-16.jpg (from swlabs.co/edugate/gallery-masonry.html)
+20:27:31	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/gallery/gallery-18.jpg (from swlabs.co/edugate/gallery-masonry.html)
+20:27:32	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/categories/categories-3.jpg (from swlabs.co/edugate/categories.html)
+20:27:32	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/categories/categories-4.jpg (from swlabs.co/edugate/categories.html)
+20:27:35	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/categories/categories-5.jpg (from swlabs.co/edugate/categories.html)
+20:27:35	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/people-avatar-6.png (from swlabs.co/edugate/news-detail.html)
+20:27:36	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/recent-post/recent-post-3.jpg (from swlabs.co/edugate/news-detail.html)
+20:27:37	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/news/news-3.jpg (from swlabs.co/edugate/)
+20:27:37	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/libs/fancybox/images/fancybox_loading@2x.gif (from swlabs.co/edugate/assets/libs/fancybox/css/jquery.fancybox.css)
+20:27:37	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/js/pages/events.js (from swlabs.co/edugate/events.html)
+20:27:38	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/categories/categories-5.jpg (from swlabs.co/edugate/categories.html)
+20:27:38	Warning: 	Retry after error -4 (No data (connection closed)) at link swlabs.co/edugate/assets/images/recent-post/recent-post-3.jpg (from swlabs.co/edugate/news-detail.html)
+20:27:42	Error: 	"No data (connection closed)" (-4) after 2 retries at link swlabs.co/edugate/assets/js/pages/events.js (from swlabs.co/edugate/events.html)
+20:27:42	Error: 	"No data (connection closed)" (-4) after 2 retries at link swlabs.co/edugate/assets/images/categories/categories-5.jpg (from swlabs.co/edugate/categories.html)
+
+HTTrack Website Copier/3.48-21 mirror complete in 4 minutes 41 seconds : 207 links scanned, 177 files written (7692308 bytes overall) [7731705 bytes received at 27514 bytes/sec], 4.4 requests per connection
+(3 errors, 28 warnings, 0 messages)
