@@ -2148,7 +2148,7 @@ footer {
     font-size: 25px;
     margin: 0;
     margin-bottom: 30px;
-    font-weight: 300
+    font-weight: 300;
 }
 
 .slider-banner-02 .slider-banner-wrapper .main-title, .slider-banner-03 .slider-banner-wrapper .main-title {
@@ -2254,7 +2254,7 @@ footer {
 
 .slider-item .slider-caption .text-info-1 {
     margin: 0 0 10px 0;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 900;
     -webkit-animation-delay: 0.8s;
     animation-delay: 0.8s
@@ -2268,12 +2268,10 @@ footer {
     animation-delay: 0.8s
 }
 .slider-item .slider-caption .text-info-4 {
-	-webkit-text-stroke-color: white;
-	-webkit-text-stroke-width: 1px;
-	-webkit-text-stroke-color': black;
+	color:#fff;
     margin: 0 0 13px 0;
     font-size: 30px;
-    font-weight: 700;
+    font-weight: 300;
     -webkit-animation-delay: 0.8s;
     animation-delay: 0.8s
 }
@@ -8010,4 +8008,5 @@ h5 {
     .edugate-layout-3 .edugate-layout-3-wrapper .edugate-image .news-gird-slider {
         width: 215px
     }
+	
 }
