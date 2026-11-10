@@ -2197,7 +2197,7 @@ footer {
     color: #5E0800;
 }
 
-.slider-item .slider-1, .slider-item .slider-2, .slider-item .slider-3, .slider-item .slider-4,  .slider-item .slider-5 {
+.slider-item .slider-1, .slider-item .slider-2, .slider-item .slider-3, .slider-item .slider-4,  .slider-item .slider-5, .slider-item .slider-6 {
     background-image: url(../images/banner-1.jpg);
     background-position: center;
     background-size: cover;
@@ -2237,6 +2237,16 @@ footer {
 .slider-item .slider-5 .slider-caption {
     text-align: right
 }
+
+.slider-item .slider-6 {
+    background-image: url(../images/banner-6.jpg)
+}
+
+.slider-item .slider-6 .slider-caption {
+    text-align: right;
+	
+}
+
 
 .slider-item .slider-caption {
     width: 100%;
@@ -2525,14 +2535,17 @@ footer {
 }
 
 .slider-talk-about-us .peopel-item .group-peole-info .peopel-avatar {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 150px;
     margin: 0 auto;
-    margin-bottom: 15px
+    margin-bottom: 10px;
+	padding-left:20px;
+	
 }
 
 .slider-talk-about-us .peopel-item .group-peole-info .peopel-avatar img {
-    border-radius: 50%
+    border-radius: 10%
+	
 }
 
 .slider-talk-about-us .peopel-item .group-peole-info .peopel-name {
